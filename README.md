@@ -47,8 +47,10 @@ No. Attribute - Description
 14. fit - fit feedback
 
 Data Citation:
+
 ● Rishabh Misra, Mengting Wan, Julian McAuley "Decomposing Fit Semantics
 for Product Size Recommendation in Metric Spaces". RecSys, 2018.
+
 ● Rishabh Misra, Jigyasa Grover "Sculpting Data for ML: The first act of
 Machine Learning". 2021.
 
