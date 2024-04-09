@@ -7,10 +7,12 @@ Business Context:
 ● Customer segmentation is one of the most important marketing tools at your
 disposal, because it can help a business to better understand its target audience.
 This is because it groups customers based on common characteristics.
+
 ● Segmentation can be based on the customer’s habits and lifestyle, in
 particular, their buying habits. Different age groups, for example, tend to
 spend their money in different ways, so brands need to be aware of who
 exactly is buying their product.
+
 ● Segmentation also focuses more on the personality of the consumer,
 including their opinions, interests, reviews, and rating. Breaking down a
 large customer base into more manageable clusters, making it easier to
@@ -18,6 +20,7 @@ identify your target audience and launch campaigns and promote the
 business to the most relevant people
 
 Dataset Description:
+  
   The dataset contains measurements of clothing fit from RentTheRunway.
 RentTheRunWay is a unique platform that allows women to rent clothes for
 various occasions. The collected data is of several categories. This dataset
